@@ -1,6 +1,6 @@
 # NLP
 
-This repository contains the Lab2 NLP project
+This repository contains the NLP TPs
 
 ## Authors
 Junyi LI
